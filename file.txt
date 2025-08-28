@@ -1,1 +1,3 @@
+Мой (второй) коммит в сабмодуле
+---
 First submodule commit
